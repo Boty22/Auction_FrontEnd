@@ -5,6 +5,6 @@ Examples on how to use:
 - JavaScript
 - Bootstrap 4
 
-Deployed (here)[https://boty22.github.io/Auction_FrontEnd/]
+Deployed [here](https://boty22.github.io/Auction_FrontEnd/)
 ## Next Stepts:
 - Implement React version
